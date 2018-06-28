@@ -4,3 +4,4 @@ cats_and_dogs.h5
 checkpoint
 *.ckpt*
 logs/
+*.csv
